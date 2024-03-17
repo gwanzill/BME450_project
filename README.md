@@ -2,7 +2,7 @@
 Predicting Stocks with Neural Networks
 
 #Team Members:
-Gonzo Wanzeller (gwanzill) and Chai Kharat ()
+Gonzo Wanzeller (gwanzill) and Chai Kharat (c-kharat)
 
 #Project Description
 	The stock market encompasses various exchanges where shares of publicly traded companies are bought and sold. It serves as a platform where buyers and sellers come together to trade shares of public companies. The stock market guarantees all interested market participants have access to data for all buy and sell orders, thereby helping in the fair and transparent pricing of securities. The market also ensures efficient matching of appropriate buy and sell orders [1]. However, the stock market is known for being dynamic and ever-changing which makes it tough to predict stock prices accurately due to many factors such as politics, global economics, unexpected events, and a company’s financial performance [2]. But all of these factors indicate there is plenty of data to work with and find patterns within. In our project, we want to use the concept of machine learning, along with other analytic techniques to detect stock market trends.
